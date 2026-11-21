@@ -1,0 +1,276 @@
+Standard_Name,Synonym
+rbc,Red Blood Cell Count
+rbc,Erythrocyte Count
+rbc,Total RBC Count
+rbc,rbc count
+
+hemoglobin,Hb
+hemoglobin,Hgb
+hemoglobin,haemoglobin
+hemoglobin,Hemoglobin (Hb)
+hematocrit,Packed Cell Volume (PCV)
+
+hematocrit,Hct
+hematocrit,HCT
+hematocrit,PCV
+hematocrit,Packed Cell Volume
+hematocrit,HEMATOCRIT VALUE HCT
+
+neutrophils_absolute,neutrophils_absolute
+lymphocytes_absolute,lymphocytes_absolute
+eosinophils_absolute,eosinophils_absolute
+monocytes_absolute,monocytes_absolute
+basophils_absolute,basophils_absolute
+
+wbc,Total Leucocyte Count (TLC)_absolute
+wbc,TLC_absolute
+wbc,Total Leukocyte Count_absolute
+platelet_count,Platelet Count_absolute
+
+neutrophils,neu%
+lymphocytes,lym%
+monocytes,mon%
+eosinophils,eos%
+basophils,bas%
+lymphocytes_absolute,lym#_absolute
+neutrophils_absolute,gra#_absolute
+rdw,row cv
+rdw,rdw-cv
+
+mcv,Mean Corpuscular Volume
+mcv,MEAN CORPUSCULAR VOLUME MCV
+
+mch,Mean Corpuscular Hemoglobin
+mch,MEAN CELL HAEMOGLOBIN MCH
+
+mchc,Mean Corpuscular Hemoglobin Concentration
+mchc,MEAN CELL HAEMOGLOBIN CON MCHC H
+
+rdw,Red Cell Distribution Width
+
+wbc,White Blood Cell Count
+wbc,Leukocyte Count
+wbc,total leukocyte count
+wbc,Total Leucocyte Count (TLC)
+wbc,TLC
+wbc,Total wbc Count
+wbc,wbc count
+
+neutrophils,Neutrophil Count
+neutrophils,Neutrophil Percentage
+neutrophils,PMN
+
+lymphocytes,Lymphocyte Count
+lymphocytes,Lymphocyte Percentage
+lymphocytes,LYMPHOCYTE L
+
+monocytes,Monocyte Count
+monocytes,Monocyte Percentage
+monocytes,MONOCYTES tod %
+
+eosinophils,Eosinophil Count
+eosinophils,Eosinophil Percentage
+
+basophils,Basophil Count
+basophils,Basophil Percentage
+basophils,BASOPHELS
+
+platelet_Count,Platelets
+platelet_Count,PLT
+platelet_Count,Thrombocyte Count
+platelet_Count,Platelet Count
+
+mpv,Mean Platelet Volume
+
+reticulocyte_Count,Reticulocytes
+reticulocyte_Count,Retic Count
+
+esr,Erythrocyte Sedimentation Rate
+esr,Sed Rate
+
+glucose_Fasting,Fasting Blood Sugar
+glucose_Fasting,FBS
+glucose_Fasting,Fasting Glucose
+
+post_Prandeal_Glucose,Post-Prandial Blood Sugar
+post_Prandeal_Glucose,PPBS
+
+random_Glucose,Random Blood Sugar
+random_Glucose,RBS
+
+hbA1c,A1c
+hbA1c,Glycated Hemoglobin
+hbA1c,Glycohemoglobin
+
+fasting_Insulin,Insulin Fasting
+
+c_peptide,Connecting Peptide
+
+homa_ir,Insulin Resistance Index
+
+total_cholesterol,Cholesterol Total
+total_cholesterol,TC
+
+ldl,LDL Cholesterol
+ldl,LDL-C
+
+hdl,HDL Cholesterol
+hdl,HDL-C
+
+vldl,Very Low Density Lipoprotein
+vldl,VLDL Cholesterol
+
+triglycerides,TG
+triglycerides,Triglyceride Level
+
+tc_hdl_ratio,Cholesterol Ratio
+
+apoB,Apolipoprotein B
+apoA1,Apolipoprotein A1
+lipoprotein_a,Lp(a)
+lipoprotein_a,Lipoprotein little a
+
+total_bilirubin,Bilirubin Total
+total_bilirubin,TBili
+
+direct_bilirubin,Conjugated Bilirubin
+indirect_bilirubin,Unconjugated Bilirubin
+
+alt,Alanine Aminotransferase
+alt,SGPT
+
+ast,Aspartate Aminotransferase
+ast,SGOT
+
+alp,Alkaline Phosphatase
+ggt,Gamma Glutamyl Transferase
+
+total_protein,Serum Protein
+total_protein,TP
+
+albumin,Alb
+albumin,Serum Albumin
+
+globulin,Glob
+
+ag_ratio,Albumin Globulin Ratio
+ag_ratio,A/G Ratio
+
+creatinine,Serum Creatinine
+creatinine,Cr
+
+bun,Blood Urea Nitrogen
+bun,Urea Nitrogen
+
+urea,Serum Urea
+
+uric_Acid,Urate
+
+egfr,Estimated GFR
+egfr,Glomerular Filtration Rate
+egfr,Estimated Glomerular Filtration Rate
+
+sodium,Na
+sodium,Serum Sodium
+
+potassium,K
+potassium,Serum Potassium
+
+chloride,Cl
+chloride,Serum Chloride
+
+co2,Bicarbonate
+co2,HCO3
+co2,Total CO2
+
+calcium,Ca
+calcium,Serum Calcium
+
+magnesium,Serum Magnesium
+rbc_magnesium,Magnesium RBC
+rbc_magnesium,Intracellular Magnesium
+
+phosphorus,Phosphate
+phosphorus,PO4
+
+serum_Iron,Iron
+ferritin,Serum Ferritin
+tibc,Total Iron Binding Capacity
+transferrin_saturation,TSAT
+transferrin_saturation,Iron Saturation
+
+zinc,Serum Zinc
+copper,Serum Copper
+selenium,Se
+
+tsh,Thyroid Stimulating Hormone
+
+total_t3,Triiodothyronine Total
+total_t4,Thyroxine Total
+
+free_t3,FT3
+free_t3,Free Triiodothyronine
+
+free_t4,FT4
+free_t4,Free Thyroxine
+
+reverse_T3,rT3
+
+tpo_antibodies,Anti-TPO
+tpo_antibodies,Thyroid Peroxidase Antibody
+
+tg_antibodies,Anti-TG
+tg_antibodies,Thyroglobulin Antibody
+
+total_testosterone,Testosterone Total
+total_testosterone,TT
+
+free_testosterone,FT
+free_testosterone,Free T
+
+estradiol,E2
+progesterone,P4
+
+fsh,Follicle Stimulating Hormone
+lh,Luteinizing Hormone
+shbg,Sex Hormone Binding Globulin
+
+dhea_s,DHEAS
+dhea_s,Dehydroepiandrosterone Sulfate
+
+cortisol,Serum Cortisol
+psa,Prostate Specific Antigen
+
+vitamin_d,25-OH Vitamin D
+vitamin_d,25 Hydroxy Vitamin D
+vitamin_d,25-Hydroxy Vitamin D
+
+vitamin_b12,Cobalamin
+
+folate,Folic Acid
+folate,Vitamin B9
+folate,Serum Folate
+
+vitamin_a,Retinol
+vitamin_e,Tocopherol
+vitamin_k1,Phylloquinone
+vitamin_b1,Thiamine
+vitamin_b6,Pyridoxine
+vitamin_c,Ascorbic Acid
+
+hs_crp,High Sensitivity CRP
+hs_crp,High Sensitivity C-Reactive Protein
+
+homocysteine,Hcy
+
+pt,Prothrombin Time
+inr,International Normalized Ratio
+ptt,Partial Thromboplastin Time
+ptt,aPTT
+
+d_dimer,D-Dimer Test
+fibrinogen,Fibrinogen Level
+
+ana,Antinuclear Antibody
+lactic_acid,Lactate
+ammonia,NH3
