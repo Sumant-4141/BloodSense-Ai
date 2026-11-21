@@ -46,7 +46,7 @@ Future<Map<String, dynamic>> generateTrueAIPersonalizedPlan({
     medicalContext = "WARNING: The user has the following anomalous blood markers and risks: ${riskStatements.join(' | ')}. You MUST tailor the diet and exercise to mitigate these risks safely.";
   }
 
-  const apiKey = 'AIzaSyCeA3OL1gzSpSpPU2vQhNSzIoM-aTgIAEQ'; // Keep your actual key here!
+  const apiKey = ''; // Keep your actual key here!
   final model = GenerativeModel(
     model: 'gemini-2.5-flash',
     apiKey: apiKey,
